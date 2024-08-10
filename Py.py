@@ -1,11 +1,9 @@
 
-def calculate_simple_interest(principal, rate, time):
-    simple_interest = (principal * rate * time) / 100
-    return simple_interest
+def calculate_area_of_a_square(side length*side length):
+area of a square = (side length 1*side length 2)
 
-principal = float(input("500"))
-rate = float(input("10"))
-time = float(input("3"))
+side length 1= float(input(type the length))
+side length 2= float(input(type the length))
 
-simple_interest = calculate_simple_interest(principal, rate, time)
-print(" simple interest ")
+area of a square =  calculate_area_of_a_square(side length 1*side length 2)
+print(" area of a square")
